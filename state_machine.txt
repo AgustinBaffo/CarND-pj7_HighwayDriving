@@ -1,0 +1,12 @@
+
+(1) keep lane -> follow max speed
+
+if: there is a car ahead
+ (2) copy velocity (always below the maximum)
+ if distance buffer is too big -> back to (1)
+ if distance buffer is too low -> reduce speed
+ else:
+	(3) change libre
+		if left lane is free => new lane = left
+		else if right lane is free => new lane = right
+		else: keep in (2) and check again
