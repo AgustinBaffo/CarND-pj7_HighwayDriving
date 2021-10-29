@@ -1,4 +1,4 @@
-# CarND-Path-Planning-Project
+# CarND - Path Planning Project
 
 Udacity Self-Driving Car Engineer - Project7: Path Planning
 
