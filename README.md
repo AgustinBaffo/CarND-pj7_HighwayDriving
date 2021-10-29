@@ -2,7 +2,7 @@
 
 Udacity Self-Driving Car Engineer - Project7: Path Planning
 
-This is the repo for the path planning project of the Udacity Self-Driving Car Nanodegree. Here are some outputs of the project:
+This is the repository of the path planning project of the Udacity Self-Driving Car Nanodegree. Here are some outputs of the project:
 
 ![output1](./output/output1.gif)
 ![output2](./output/output2.gif)
